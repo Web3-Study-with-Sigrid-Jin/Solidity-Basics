@@ -12,11 +12,12 @@
 
 ## 구현 과제
 
-* 간단한 Counter Example을 구현한다.
+* 간단한 Counter Example을 구현한다. 배포 환경은 JavaScript VM이어야 한다.
 * `counter` 변수를 설정하고, 해당 변수는 정수 타입이어야 한다.
 * `incrementCounter()` 함수를 구현하여, 해당 함수에 요청을 보낼 때 `counter` 변수를 1씩 올리도록 한다.
 * `decrementCounter()` 함수를 구현하여, 해당 함수에 요청을 보낼 때 `counter` 변수를 1씩 내리도록 한다.
 * `getCount()` 함수를 구현하여, 해당 함수에 요청을 보내 `counter` 변수의 값을 반환하도록 한다.
+* Remix IDE에서 구현한 함수를 실행하고, 함수 실행결과를 캡처하여 스크린샷으로 첨부하여 코드와 함께 Pull Request를 보낸다.
 
 ## 도전 과제: 프론트엔드 개발 가능자
 
