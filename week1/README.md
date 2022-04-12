@@ -6,9 +6,10 @@
 * Solidity를 활용하는 Ethereum Virtual Machine 기반 개발 환경을 이해한다.
 * Remix IDE 사용을 통해 기초적인 컨트랙트 배포 과정을 이해한다.
 
-## 학습 사항
+## 학습 자료
 
 * 저장소에 상기한 pdf 파일을 참고하도록 한다.
+* 노션 링크도 참고한다. [바로 가기](https://www.notion.so/jypthemiracle/7b173c3376a7492c97545ed31d09e4d3)
 
 ## 구현 과제
 
